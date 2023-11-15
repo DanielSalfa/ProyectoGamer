@@ -9,15 +9,18 @@ EditorBuildSettings:
     path: Assets/Scenes/Menu Principal.unity
     guid: d73d8d65fe1250b4f92847ed14e24642
   - enabled: 1
+    path: Assets/Scenes/Nivel Principal.unity
+    guid: b0d199940c2c5454c8762cddf36ff924
+  - enabled: 1
+    path: Assets/Scenes/Segundo Nivel.unity
+    guid: 159200d61c5848b45a25c204490a3be3
+  - enabled: 1
     path: Assets/Scenes/Tercer Nivel.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/Segundo Nivel.unity
-    guid: eb12a6278478e8b4da49b7e0db168e69
-  - enabled: 1
-    path: Assets/Scenes/Tercer Nivel.unity
-    guid: 99348940ebb92364d9c7349fb03b83f5
+    path: Assets/Scenes/Victoria.unity
+    guid: b11a7518add7fb34d963c7e1a0ef3c9f
   - enabled: 1
     path: Assets/Scenes/GameOver.unity
-    guid: b11a7518add7fb34d963c7e1a0ef3c9f
+    guid: dddaaacd2c532a746b6ca454ab6f35d3
   m_configObjects: {}
